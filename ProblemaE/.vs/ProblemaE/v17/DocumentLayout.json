@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorge\\source\\repos\\ProblemaE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A48BF67-BBD7-4CCC-B7F2-6038EFDF0ECF}|ProblemaE\\ProblemaE.csproj|c:\\users\\jorge\\source\\repos\\problemae\\problemae\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A48BF67-BBD7-4CCC-B7F2-6038EFDF0ECF}|ProblemaE\\ProblemaE.csproj|solutionrelative:problemae\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A48BF67-BBD7-4CCC-B7F2-6038EFDF0ECF}|ProblemaE\\ProblemaE.csproj|c:\\users\\jorge\\source\\repos\\problemae\\problemae\\trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A48BF67-BBD7-4CCC-B7F2-6038EFDF0ECF}|ProblemaE\\ProblemaE.csproj|solutionrelative:problemae\\trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trabajador.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\ProblemaE\\ProblemaE\\Trabajador.cs",
+              "RelativeDocumentMoniker": "ProblemaE\\Trabajador.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\ProblemaE\\ProblemaE\\Trabajador.cs",
+              "RelativeToolTip": "ProblemaE\\Trabajador.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwCIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:38:42.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\ProblemaE\\ProblemaE\\Program.cs",
+              "RelativeDocumentMoniker": "ProblemaE\\Program.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\ProblemaE\\ProblemaE\\Program.cs",
+              "RelativeToolTip": "ProblemaE\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:38:03.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

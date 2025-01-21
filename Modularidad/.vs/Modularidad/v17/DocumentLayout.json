@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorge\\source\\repos\\Modularidad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE80DA4-2C68-49BB-950C-9B8843293F95}|Modularidad\\Modularidad.csproj|c:\\users\\jorge\\source\\repos\\modularidad\\modularidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE80DA4-2C68-49BB-950C-9B8843293F95}|Modularidad\\Modularidad.csproj|solutionrelative:modularidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE80DA4-2C68-49BB-950C-9B8843293F95}|Modularidad\\Modularidad.csproj|c:\\users\\jorge\\source\\repos\\modularidad\\modularidad\\automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE80DA4-2C68-49BB-950C-9B8843293F95}|Modularidad\\Modularidad.csproj|solutionrelative:modularidad\\automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE80DA4-2C68-49BB-950C-9B8843293F95}|Modularidad\\Modularidad.csproj|c:\\users\\jorge\\source\\repos\\modularidad\\modularidad\\depositocombustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE80DA4-2C68-49BB-950C-9B8843293F95}|Modularidad\\Modularidad.csproj|solutionrelative:modularidad\\depositocombustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE80DA4-2C68-49BB-950C-9B8843293F95}|Modularidad\\Modularidad.csproj|c:\\users\\jorge\\source\\repos\\modularidad\\modularidad\\rueda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE80DA4-2C68-49BB-950C-9B8843293F95}|Modularidad\\Modularidad.csproj|solutionrelative:modularidad\\rueda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepositoCombustible.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\Modularidad\\Modularidad\\DepositoCombustible.cs",
+              "RelativeDocumentMoniker": "Modularidad\\DepositoCombustible.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\Modularidad\\Modularidad\\DepositoCombustible.cs",
+              "RelativeToolTip": "Modularidad\\DepositoCombustible.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:52:51.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rueda.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\Modularidad\\Modularidad\\Rueda.cs",
+              "RelativeDocumentMoniker": "Modularidad\\Rueda.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\Modularidad\\Modularidad\\Rueda.cs",
+              "RelativeToolTip": "Modularidad\\Rueda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:49:07.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Automovil.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\Modularidad\\Modularidad\\Automovil.cs",
+              "RelativeDocumentMoniker": "Modularidad\\Automovil.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\Modularidad\\Modularidad\\Automovil.cs",
+              "RelativeToolTip": "Modularidad\\Automovil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:47:45.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\Modularidad\\Modularidad\\Program.cs",
+              "RelativeDocumentMoniker": "Modularidad\\Program.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\Modularidad\\Modularidad\\Program.cs",
+              "RelativeToolTip": "Modularidad\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:44:30.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

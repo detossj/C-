@@ -1,0 +1,14 @@
+C:\Users\jorge\source\repos\Sobrecarga_metodos\Sobrecarga_metodos\bin\Debug\net8.0\Sobrecarga_metodos.exe
+C:\Users\jorge\source\repos\Sobrecarga_metodos\Sobrecarga_metodos\bin\Debug\net8.0\Sobrecarga_metodos.deps.json
+C:\Users\jorge\source\repos\Sobrecarga_metodos\Sobrecarga_metodos\bin\Debug\net8.0\Sobrecarga_metodos.runtimeconfig.json
+C:\Users\jorge\source\repos\Sobrecarga_metodos\Sobrecarga_metodos\bin\Debug\net8.0\Sobrecarga_metodos.dll
+C:\Users\jorge\source\repos\Sobrecarga_metodos\Sobrecarga_metodos\bin\Debug\net8.0\Sobrecarga_metodos.pdb
+C:\Users\jorge\source\repos\Sobrecarga_metodos\Sobrecarga_metodos\obj\Debug\net8.0\Sobrecarga_metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\Sobrecarga_metodos\Sobrecarga_metodos\obj\Debug\net8.0\Sobrecarga_metodos.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\Sobrecarga_metodos\Sobrecarga_metodos\obj\Debug\net8.0\Sobrecarga_metodos.AssemblyInfo.cs
+C:\Users\jorge\source\repos\Sobrecarga_metodos\Sobrecarga_metodos\obj\Debug\net8.0\Sobrecarga_metodos.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\Sobrecarga_metodos\Sobrecarga_metodos\obj\Debug\net8.0\Sobrecarga_metodos.dll
+C:\Users\jorge\source\repos\Sobrecarga_metodos\Sobrecarga_metodos\obj\Debug\net8.0\refint\Sobrecarga_metodos.dll
+C:\Users\jorge\source\repos\Sobrecarga_metodos\Sobrecarga_metodos\obj\Debug\net8.0\Sobrecarga_metodos.pdb
+C:\Users\jorge\source\repos\Sobrecarga_metodos\Sobrecarga_metodos\obj\Debug\net8.0\Sobrecarga_metodos.genruntimeconfig.cache
+C:\Users\jorge\source\repos\Sobrecarga_metodos\Sobrecarga_metodos\obj\Debug\net8.0\ref\Sobrecarga_metodos.dll

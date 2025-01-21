@@ -1,0 +1,14 @@
+C:\Users\jorge\source\repos\Ejercicio1 yt video 2\Ejercicio1 yt video 2\bin\Debug\net8.0\Ejercicio1 yt video 2.exe
+C:\Users\jorge\source\repos\Ejercicio1 yt video 2\Ejercicio1 yt video 2\bin\Debug\net8.0\Ejercicio1 yt video 2.deps.json
+C:\Users\jorge\source\repos\Ejercicio1 yt video 2\Ejercicio1 yt video 2\bin\Debug\net8.0\Ejercicio1 yt video 2.runtimeconfig.json
+C:\Users\jorge\source\repos\Ejercicio1 yt video 2\Ejercicio1 yt video 2\bin\Debug\net8.0\Ejercicio1 yt video 2.dll
+C:\Users\jorge\source\repos\Ejercicio1 yt video 2\Ejercicio1 yt video 2\bin\Debug\net8.0\Ejercicio1 yt video 2.pdb
+C:\Users\jorge\source\repos\Ejercicio1 yt video 2\Ejercicio1 yt video 2\obj\Debug\net8.0\Ejercicio1 yt video 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\Ejercicio1 yt video 2\Ejercicio1 yt video 2\obj\Debug\net8.0\Ejercicio1 yt video 2.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\Ejercicio1 yt video 2\Ejercicio1 yt video 2\obj\Debug\net8.0\Ejercicio1 yt video 2.AssemblyInfo.cs
+C:\Users\jorge\source\repos\Ejercicio1 yt video 2\Ejercicio1 yt video 2\obj\Debug\net8.0\Ejercicio1 yt video 2.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\Ejercicio1 yt video 2\Ejercicio1 yt video 2\obj\Debug\net8.0\Ejercicio1 yt video 2.dll
+C:\Users\jorge\source\repos\Ejercicio1 yt video 2\Ejercicio1 yt video 2\obj\Debug\net8.0\refint\Ejercicio1 yt video 2.dll
+C:\Users\jorge\source\repos\Ejercicio1 yt video 2\Ejercicio1 yt video 2\obj\Debug\net8.0\Ejercicio1 yt video 2.pdb
+C:\Users\jorge\source\repos\Ejercicio1 yt video 2\Ejercicio1 yt video 2\obj\Debug\net8.0\Ejercicio1 yt video 2.genruntimeconfig.cache
+C:\Users\jorge\source\repos\Ejercicio1 yt video 2\Ejercicio1 yt video 2\obj\Debug\net8.0\ref\Ejercicio1 yt video 2.dll

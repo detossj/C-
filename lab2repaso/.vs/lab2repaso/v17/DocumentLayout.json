@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorge\\source\\repos\\lab2repaso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A77C32-FF7A-4EAD-9E29-875AC5A04121}|lab2repaso\\lab2repaso.csproj|c:\\users\\jorge\\source\\repos\\lab2repaso\\lab2repaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A77C32-FF7A-4EAD-9E29-875AC5A04121}|lab2repaso\\lab2repaso.csproj|solutionrelative:lab2repaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A77C32-FF7A-4EAD-9E29-875AC5A04121}|lab2repaso\\lab2repaso.csproj|c:\\users\\jorge\\source\\repos\\lab2repaso\\lab2repaso\\mueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A77C32-FF7A-4EAD-9E29-875AC5A04121}|lab2repaso\\lab2repaso.csproj|solutionrelative:lab2repaso\\mueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mueble.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\lab2repaso\\lab2repaso\\Mueble.cs",
+              "RelativeDocumentMoniker": "lab2repaso\\Mueble.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\lab2repaso\\lab2repaso\\Mueble.cs",
+              "RelativeToolTip": "lab2repaso\\Mueble.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAIA+wDYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T03:04:54.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\lab2repaso\\lab2repaso\\Program.cs",
+              "RelativeDocumentMoniker": "lab2repaso\\Program.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\lab2repaso\\lab2repaso\\Program.cs",
+              "RelativeToolTip": "lab2repaso\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T03:04:28.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

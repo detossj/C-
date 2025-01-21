@@ -1,0 +1,14 @@
+C:\Users\jorge\source\repos\ProblemaE\ProblemaE\bin\Debug\net8.0\ProblemaE.exe
+C:\Users\jorge\source\repos\ProblemaE\ProblemaE\bin\Debug\net8.0\ProblemaE.deps.json
+C:\Users\jorge\source\repos\ProblemaE\ProblemaE\bin\Debug\net8.0\ProblemaE.runtimeconfig.json
+C:\Users\jorge\source\repos\ProblemaE\ProblemaE\bin\Debug\net8.0\ProblemaE.dll
+C:\Users\jorge\source\repos\ProblemaE\ProblemaE\bin\Debug\net8.0\ProblemaE.pdb
+C:\Users\jorge\source\repos\ProblemaE\ProblemaE\obj\Debug\net8.0\ProblemaE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\ProblemaE\ProblemaE\obj\Debug\net8.0\ProblemaE.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\ProblemaE\ProblemaE\obj\Debug\net8.0\ProblemaE.AssemblyInfo.cs
+C:\Users\jorge\source\repos\ProblemaE\ProblemaE\obj\Debug\net8.0\ProblemaE.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\ProblemaE\ProblemaE\obj\Debug\net8.0\ProblemaE.dll
+C:\Users\jorge\source\repos\ProblemaE\ProblemaE\obj\Debug\net8.0\refint\ProblemaE.dll
+C:\Users\jorge\source\repos\ProblemaE\ProblemaE\obj\Debug\net8.0\ProblemaE.pdb
+C:\Users\jorge\source\repos\ProblemaE\ProblemaE\obj\Debug\net8.0\ProblemaE.genruntimeconfig.cache
+C:\Users\jorge\source\repos\ProblemaE\ProblemaE\obj\Debug\net8.0\ref\ProblemaE.dll

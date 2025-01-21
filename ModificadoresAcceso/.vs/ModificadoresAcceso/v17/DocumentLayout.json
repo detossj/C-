@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorge\\source\\repos\\ModificadoresAcceso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{521D9AC2-736B-4AA4-8716-04EFB3F0B893}|ModificadoresPrueba\\ModificadoresPrueba.csproj|c:\\users\\jorge\\source\\repos\\modificadoresacceso\\modificadoresprueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{521D9AC2-736B-4AA4-8716-04EFB3F0B893}|ModificadoresPrueba\\ModificadoresPrueba.csproj|solutionrelative:modificadoresprueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05682A29-720F-4648-BAEF-309DFE68B275}|ModificadoresAcceso\\ModificadoresAcceso.csproj|c:\\users\\jorge\\source\\repos\\modificadoresacceso\\modificadoresacceso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05682A29-720F-4648-BAEF-309DFE68B275}|ModificadoresAcceso\\ModificadoresAcceso.csproj|solutionrelative:modificadoresacceso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\ModificadoresAcceso\\ModificadoresPrueba\\Program.cs",
+              "RelativeDocumentMoniker": "ModificadoresPrueba\\Program.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\ModificadoresAcceso\\ModificadoresPrueba\\Program.cs",
+              "RelativeToolTip": "ModificadoresPrueba\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:19:44.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\ModificadoresAcceso\\ModificadoresAcceso\\Program.cs",
+              "RelativeDocumentMoniker": "ModificadoresAcceso\\Program.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\ModificadoresAcceso\\ModificadoresAcceso\\Program.cs",
+              "RelativeToolTip": "ModificadoresAcceso\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:15:45.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

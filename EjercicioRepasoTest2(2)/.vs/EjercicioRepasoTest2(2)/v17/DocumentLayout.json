@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorge\\source\\repos\\EjercicioRepasoTest2(2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE348193-3EFB-4969-B60C-B9793FABE011}|EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2).csproj|c:\\users\\jorge\\source\\repos\\ejerciciorepasotest2(2)\\ejerciciorepasotest2(2)\\cabeza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE348193-3EFB-4969-B60C-B9793FABE011}|EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2).csproj|solutionrelative:ejerciciorepasotest2(2)\\cabeza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE348193-3EFB-4969-B60C-B9793FABE011}|EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2).csproj|c:\\users\\jorge\\source\\repos\\ejerciciorepasotest2(2)\\ejerciciorepasotest2(2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE348193-3EFB-4969-B60C-B9793FABE011}|EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2).csproj|solutionrelative:ejerciciorepasotest2(2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE348193-3EFB-4969-B60C-B9793FABE011}|EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2).csproj|c:\\users\\jorge\\source\\repos\\ejerciciorepasotest2(2)\\ejerciciorepasotest2(2)\\pieza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE348193-3EFB-4969-B60C-B9793FABE011}|EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2).csproj|solutionrelative:ejerciciorepasotest2(2)\\pieza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE348193-3EFB-4969-B60C-B9793FABE011}|EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2).csproj|c:\\users\\jorge\\source\\repos\\ejerciciorepasotest2(2)\\ejerciciorepasotest2(2)\\pierna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE348193-3EFB-4969-B60C-B9793FABE011}|EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2).csproj|solutionrelative:ejerciciorepasotest2(2)\\pierna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE348193-3EFB-4969-B60C-B9793FABE011}|EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2).csproj|c:\\users\\jorge\\source\\repos\\ejerciciorepasotest2(2)\\ejerciciorepasotest2(2)\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE348193-3EFB-4969-B60C-B9793FABE011}|EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2).csproj|solutionrelative:ejerciciorepasotest2(2)\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE348193-3EFB-4969-B60C-B9793FABE011}|EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2).csproj|c:\\users\\jorge\\source\\repos\\ejerciciorepasotest2(2)\\ejerciciorepasotest2(2)\\medalla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE348193-3EFB-4969-B60C-B9793FABE011}|EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2).csproj|solutionrelative:ejerciciorepasotest2(2)\\medalla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE348193-3EFB-4969-B60C-B9793FABE011}|EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2).csproj|c:\\users\\jorge\\source\\repos\\ejerciciorepasotest2(2)\\ejerciciorepasotest2(2)\\brazo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE348193-3EFB-4969-B60C-B9793FABE011}|EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2).csproj|solutionrelative:ejerciciorepasotest2(2)\\brazo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE348193-3EFB-4969-B60C-B9793FABE011}|EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2).csproj|c:\\users\\jorge\\source\\repos\\ejerciciorepasotest2(2)\\ejerciciorepasotest2(2)\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE348193-3EFB-4969-B60C-B9793FABE011}|EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2).csproj|solutionrelative:ejerciciorepasotest2(2)\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE348193-3EFB-4969-B60C-B9793FABE011}|EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2).csproj|c:\\users\\jorge\\source\\repos\\ejerciciorepasotest2(2)\\ejerciciorepasotest2(2)\\visualizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE348193-3EFB-4969-B60C-B9793FABE011}|EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2).csproj|solutionrelative:ejerciciorepasotest2(2)\\visualizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE348193-3EFB-4969-B60C-B9793FABE011}|EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2).csproj|c:\\users\\jorge\\source\\repos\\ejerciciorepasotest2(2)\\ejerciciorepasotest2(2)\\campobatalla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE348193-3EFB-4969-B60C-B9793FABE011}|EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2).csproj|solutionrelative:ejerciciorepasotest2(2)\\campobatalla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Medalla.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2)\\Medalla.cs",
+              "RelativeDocumentMoniker": "EjercicioRepasoTest2(2)\\Medalla.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2)\\Medalla.cs",
+              "RelativeToolTip": "EjercicioRepasoTest2(2)\\Medalla.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:18:45.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pierna.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2)\\Pierna.cs",
+              "RelativeDocumentMoniker": "EjercicioRepasoTest2(2)\\Pierna.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2)\\Pierna.cs",
+              "RelativeToolTip": "EjercicioRepasoTest2(2)\\Pierna.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:10:44.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Brazo.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2)\\Brazo.cs",
+              "RelativeDocumentMoniker": "EjercicioRepasoTest2(2)\\Brazo.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2)\\Brazo.cs",
+              "RelativeToolTip": "EjercicioRepasoTest2(2)\\Brazo.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwCcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:04:12.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bot.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2)\\Bot.cs",
+              "RelativeDocumentMoniker": "EjercicioRepasoTest2(2)\\Bot.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2)\\Bot.cs",
+              "RelativeToolTip": "EjercicioRepasoTest2(2)\\Bot.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIA/wBcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:52:29.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cabeza.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2)\\Cabeza.cs",
+              "RelativeDocumentMoniker": "EjercicioRepasoTest2(2)\\Cabeza.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2)\\Cabeza.cs",
+              "RelativeToolTip": "EjercicioRepasoTest2(2)\\Cabeza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:53:21.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pieza.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2)\\Pieza.cs",
+              "RelativeDocumentMoniker": "EjercicioRepasoTest2(2)\\Pieza.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2)\\Pieza.cs",
+              "RelativeToolTip": "EjercicioRepasoTest2(2)\\Pieza.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:37:07.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Control.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2)\\Control.cs",
+              "RelativeDocumentMoniker": "EjercicioRepasoTest2(2)\\Control.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2)\\Control.cs",
+              "RelativeToolTip": "EjercicioRepasoTest2(2)\\Control.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:15:55.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Visualizador.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2)\\Visualizador.cs",
+              "RelativeDocumentMoniker": "EjercicioRepasoTest2(2)\\Visualizador.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2)\\Visualizador.cs",
+              "RelativeToolTip": "EjercicioRepasoTest2(2)\\Visualizador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:13:15.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CampoBatalla.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2)\\CampoBatalla.cs",
+              "RelativeDocumentMoniker": "EjercicioRepasoTest2(2)\\CampoBatalla.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2)\\CampoBatalla.cs",
+              "RelativeToolTip": "EjercicioRepasoTest2(2)\\CampoBatalla.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:46:13.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2)\\Program.cs",
+              "RelativeDocumentMoniker": "EjercicioRepasoTest2(2)\\Program.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\EjercicioRepasoTest2(2)\\EjercicioRepasoTest2(2)\\Program.cs",
+              "RelativeToolTip": "EjercicioRepasoTest2(2)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:50:45.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

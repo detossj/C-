@@ -1,0 +1,14 @@
+C:\Users\jorge\source\repos\ProblemaC\ProblemaC\bin\Debug\net8.0\ProblemaC.exe
+C:\Users\jorge\source\repos\ProblemaC\ProblemaC\bin\Debug\net8.0\ProblemaC.deps.json
+C:\Users\jorge\source\repos\ProblemaC\ProblemaC\bin\Debug\net8.0\ProblemaC.runtimeconfig.json
+C:\Users\jorge\source\repos\ProblemaC\ProblemaC\bin\Debug\net8.0\ProblemaC.dll
+C:\Users\jorge\source\repos\ProblemaC\ProblemaC\bin\Debug\net8.0\ProblemaC.pdb
+C:\Users\jorge\source\repos\ProblemaC\ProblemaC\obj\Debug\net8.0\ProblemaC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\ProblemaC\ProblemaC\obj\Debug\net8.0\ProblemaC.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\ProblemaC\ProblemaC\obj\Debug\net8.0\ProblemaC.AssemblyInfo.cs
+C:\Users\jorge\source\repos\ProblemaC\ProblemaC\obj\Debug\net8.0\ProblemaC.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\ProblemaC\ProblemaC\obj\Debug\net8.0\ProblemaC.dll
+C:\Users\jorge\source\repos\ProblemaC\ProblemaC\obj\Debug\net8.0\refint\ProblemaC.dll
+C:\Users\jorge\source\repos\ProblemaC\ProblemaC\obj\Debug\net8.0\ProblemaC.pdb
+C:\Users\jorge\source\repos\ProblemaC\ProblemaC\obj\Debug\net8.0\ProblemaC.genruntimeconfig.cache
+C:\Users\jorge\source\repos\ProblemaC\ProblemaC\obj\Debug\net8.0\ref\ProblemaC.dll

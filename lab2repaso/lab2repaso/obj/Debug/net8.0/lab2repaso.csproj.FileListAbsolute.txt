@@ -1,0 +1,14 @@
+C:\Users\jorge\source\repos\lab2repaso\lab2repaso\bin\Debug\net8.0\lab2repaso.exe
+C:\Users\jorge\source\repos\lab2repaso\lab2repaso\bin\Debug\net8.0\lab2repaso.deps.json
+C:\Users\jorge\source\repos\lab2repaso\lab2repaso\bin\Debug\net8.0\lab2repaso.runtimeconfig.json
+C:\Users\jorge\source\repos\lab2repaso\lab2repaso\bin\Debug\net8.0\lab2repaso.dll
+C:\Users\jorge\source\repos\lab2repaso\lab2repaso\bin\Debug\net8.0\lab2repaso.pdb
+C:\Users\jorge\source\repos\lab2repaso\lab2repaso\obj\Debug\net8.0\lab2repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\lab2repaso\lab2repaso\obj\Debug\net8.0\lab2repaso.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\lab2repaso\lab2repaso\obj\Debug\net8.0\lab2repaso.AssemblyInfo.cs
+C:\Users\jorge\source\repos\lab2repaso\lab2repaso\obj\Debug\net8.0\lab2repaso.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\lab2repaso\lab2repaso\obj\Debug\net8.0\lab2repaso.dll
+C:\Users\jorge\source\repos\lab2repaso\lab2repaso\obj\Debug\net8.0\refint\lab2repaso.dll
+C:\Users\jorge\source\repos\lab2repaso\lab2repaso\obj\Debug\net8.0\lab2repaso.pdb
+C:\Users\jorge\source\repos\lab2repaso\lab2repaso\obj\Debug\net8.0\lab2repaso.genruntimeconfig.cache
+C:\Users\jorge\source\repos\lab2repaso\lab2repaso\obj\Debug\net8.0\ref\lab2repaso.dll

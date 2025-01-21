@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorge\\source\\repos\\HerenciaComposicion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B000E861-6265-433F-94BE-5E0933C5A65C}|HerenciaComposicion\\HerenciaComposicion.csproj|c:\\users\\jorge\\source\\repos\\herenciacomposicion\\herenciacomposicion\\mueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B000E861-6265-433F-94BE-5E0933C5A65C}|HerenciaComposicion\\HerenciaComposicion.csproj|solutionrelative:herenciacomposicion\\mueble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B000E861-6265-433F-94BE-5E0933C5A65C}|HerenciaComposicion\\HerenciaComposicion.csproj|c:\\users\\jorge\\source\\repos\\herenciacomposicion\\herenciacomposicion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B000E861-6265-433F-94BE-5E0933C5A65C}|HerenciaComposicion\\HerenciaComposicion.csproj|solutionrelative:herenciacomposicion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B000E861-6265-433F-94BE-5E0933C5A65C}|HerenciaComposicion\\HerenciaComposicion.csproj|c:\\users\\jorge\\source\\repos\\herenciacomposicion\\herenciacomposicion\\herencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B000E861-6265-433F-94BE-5E0933C5A65C}|HerenciaComposicion\\HerenciaComposicion.csproj|solutionrelative:herenciacomposicion\\herencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jorge\\Desktop\\Composicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Composicion.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\Composicion.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Composicion.cs",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\Composicion.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\Composicion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:19:27.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mueble.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\HerenciaComposicion\\HerenciaComposicion\\Mueble.cs",
+              "RelativeDocumentMoniker": "HerenciaComposicion\\Mueble.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\HerenciaComposicion\\HerenciaComposicion\\Mueble.cs",
+              "RelativeToolTip": "HerenciaComposicion\\Mueble.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:19:14.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Herencia.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\HerenciaComposicion\\HerenciaComposicion\\Herencia.cs",
+              "RelativeDocumentMoniker": "HerenciaComposicion\\Herencia.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\HerenciaComposicion\\HerenciaComposicion\\Herencia.cs",
+              "RelativeToolTip": "HerenciaComposicion\\Herencia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:18:37.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\HerenciaComposicion\\HerenciaComposicion\\Program.cs",
+              "RelativeDocumentMoniker": "HerenciaComposicion\\Program.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\HerenciaComposicion\\HerenciaComposicion\\Program.cs",
+              "RelativeToolTip": "HerenciaComposicion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:18:10.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

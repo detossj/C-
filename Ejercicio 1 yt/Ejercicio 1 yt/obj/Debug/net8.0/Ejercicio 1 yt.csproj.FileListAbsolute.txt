@@ -1,0 +1,14 @@
+C:\Users\jorge\source\repos\Ejercicio 1 yt\Ejercicio 1 yt\bin\Debug\net8.0\Ejercicio 1 yt.exe
+C:\Users\jorge\source\repos\Ejercicio 1 yt\Ejercicio 1 yt\bin\Debug\net8.0\Ejercicio 1 yt.deps.json
+C:\Users\jorge\source\repos\Ejercicio 1 yt\Ejercicio 1 yt\bin\Debug\net8.0\Ejercicio 1 yt.runtimeconfig.json
+C:\Users\jorge\source\repos\Ejercicio 1 yt\Ejercicio 1 yt\bin\Debug\net8.0\Ejercicio 1 yt.dll
+C:\Users\jorge\source\repos\Ejercicio 1 yt\Ejercicio 1 yt\bin\Debug\net8.0\Ejercicio 1 yt.pdb
+C:\Users\jorge\source\repos\Ejercicio 1 yt\Ejercicio 1 yt\obj\Debug\net8.0\Ejercicio 1 yt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\Ejercicio 1 yt\Ejercicio 1 yt\obj\Debug\net8.0\Ejercicio 1 yt.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\Ejercicio 1 yt\Ejercicio 1 yt\obj\Debug\net8.0\Ejercicio 1 yt.AssemblyInfo.cs
+C:\Users\jorge\source\repos\Ejercicio 1 yt\Ejercicio 1 yt\obj\Debug\net8.0\Ejercicio 1 yt.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\Ejercicio 1 yt\Ejercicio 1 yt\obj\Debug\net8.0\Ejercicio 1 yt.dll
+C:\Users\jorge\source\repos\Ejercicio 1 yt\Ejercicio 1 yt\obj\Debug\net8.0\refint\Ejercicio 1 yt.dll
+C:\Users\jorge\source\repos\Ejercicio 1 yt\Ejercicio 1 yt\obj\Debug\net8.0\Ejercicio 1 yt.pdb
+C:\Users\jorge\source\repos\Ejercicio 1 yt\Ejercicio 1 yt\obj\Debug\net8.0\Ejercicio 1 yt.genruntimeconfig.cache
+C:\Users\jorge\source\repos\Ejercicio 1 yt\Ejercicio 1 yt\obj\Debug\net8.0\ref\Ejercicio 1 yt.dll

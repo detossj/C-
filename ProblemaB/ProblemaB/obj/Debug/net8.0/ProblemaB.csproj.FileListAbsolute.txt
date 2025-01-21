@@ -1,0 +1,14 @@
+C:\Users\jorge\source\repos\ProblemaB\ProblemaB\bin\Debug\net8.0\ProblemaB.exe
+C:\Users\jorge\source\repos\ProblemaB\ProblemaB\bin\Debug\net8.0\ProblemaB.deps.json
+C:\Users\jorge\source\repos\ProblemaB\ProblemaB\bin\Debug\net8.0\ProblemaB.runtimeconfig.json
+C:\Users\jorge\source\repos\ProblemaB\ProblemaB\bin\Debug\net8.0\ProblemaB.dll
+C:\Users\jorge\source\repos\ProblemaB\ProblemaB\bin\Debug\net8.0\ProblemaB.pdb
+C:\Users\jorge\source\repos\ProblemaB\ProblemaB\obj\Debug\net8.0\ProblemaB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\ProblemaB\ProblemaB\obj\Debug\net8.0\ProblemaB.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\ProblemaB\ProblemaB\obj\Debug\net8.0\ProblemaB.AssemblyInfo.cs
+C:\Users\jorge\source\repos\ProblemaB\ProblemaB\obj\Debug\net8.0\ProblemaB.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\ProblemaB\ProblemaB\obj\Debug\net8.0\ProblemaB.dll
+C:\Users\jorge\source\repos\ProblemaB\ProblemaB\obj\Debug\net8.0\refint\ProblemaB.dll
+C:\Users\jorge\source\repos\ProblemaB\ProblemaB\obj\Debug\net8.0\ProblemaB.pdb
+C:\Users\jorge\source\repos\ProblemaB\ProblemaB\obj\Debug\net8.0\ProblemaB.genruntimeconfig.cache
+C:\Users\jorge\source\repos\ProblemaB\ProblemaB\obj\Debug\net8.0\ref\ProblemaB.dll

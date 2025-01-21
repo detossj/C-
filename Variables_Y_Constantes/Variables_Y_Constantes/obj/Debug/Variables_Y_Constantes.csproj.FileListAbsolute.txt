@@ -1,0 +1,7 @@
+C:\Users\jorge\source\repos\Variables_Y_Constantes\Variables_Y_Constantes\obj\Debug\Variables_Y_Constantes.csproj.AssemblyReference.cache
+C:\Users\jorge\source\repos\Variables_Y_Constantes\Variables_Y_Constantes\obj\Debug\Variables_Y_Constantes.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\Variables_Y_Constantes\Variables_Y_Constantes\bin\Debug\Variables_Y_Constantes.exe.config
+C:\Users\jorge\source\repos\Variables_Y_Constantes\Variables_Y_Constantes\bin\Debug\Variables_Y_Constantes.exe
+C:\Users\jorge\source\repos\Variables_Y_Constantes\Variables_Y_Constantes\bin\Debug\Variables_Y_Constantes.pdb
+C:\Users\jorge\source\repos\Variables_Y_Constantes\Variables_Y_Constantes\obj\Debug\Variables_Y_Constantes.exe
+C:\Users\jorge\source\repos\Variables_Y_Constantes\Variables_Y_Constantes\obj\Debug\Variables_Y_Constantes.pdb

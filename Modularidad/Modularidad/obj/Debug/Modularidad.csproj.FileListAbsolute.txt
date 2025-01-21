@@ -1,0 +1,7 @@
+C:\Users\jorge\source\repos\Modularidad\Modularidad\obj\Debug\Modularidad.csproj.AssemblyReference.cache
+C:\Users\jorge\source\repos\Modularidad\Modularidad\obj\Debug\Modularidad.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\Modularidad\Modularidad\bin\Debug\Modularidad.exe.config
+C:\Users\jorge\source\repos\Modularidad\Modularidad\bin\Debug\Modularidad.exe
+C:\Users\jorge\source\repos\Modularidad\Modularidad\bin\Debug\Modularidad.pdb
+C:\Users\jorge\source\repos\Modularidad\Modularidad\obj\Debug\Modularidad.exe
+C:\Users\jorge\source\repos\Modularidad\Modularidad\obj\Debug\Modularidad.pdb

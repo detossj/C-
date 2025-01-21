@@ -1,0 +1,14 @@
+C:\Users\jorge\source\repos\Lab3part1\Lab3part1\obj\Debug\net8.0\Lab3part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\Lab3part1\Lab3part1\obj\Debug\net8.0\Lab3part1.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\Lab3part1\Lab3part1\obj\Debug\net8.0\Lab3part1.AssemblyInfo.cs
+C:\Users\jorge\source\repos\Lab3part1\Lab3part1\obj\Debug\net8.0\Lab3part1.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\Lab3part1\Lab3part1\bin\Debug\net8.0\Lab3part1.exe
+C:\Users\jorge\source\repos\Lab3part1\Lab3part1\bin\Debug\net8.0\Lab3part1.deps.json
+C:\Users\jorge\source\repos\Lab3part1\Lab3part1\bin\Debug\net8.0\Lab3part1.runtimeconfig.json
+C:\Users\jorge\source\repos\Lab3part1\Lab3part1\bin\Debug\net8.0\Lab3part1.dll
+C:\Users\jorge\source\repos\Lab3part1\Lab3part1\bin\Debug\net8.0\Lab3part1.pdb
+C:\Users\jorge\source\repos\Lab3part1\Lab3part1\obj\Debug\net8.0\Lab3part1.dll
+C:\Users\jorge\source\repos\Lab3part1\Lab3part1\obj\Debug\net8.0\refint\Lab3part1.dll
+C:\Users\jorge\source\repos\Lab3part1\Lab3part1\obj\Debug\net8.0\Lab3part1.pdb
+C:\Users\jorge\source\repos\Lab3part1\Lab3part1\obj\Debug\net8.0\Lab3part1.genruntimeconfig.cache
+C:\Users\jorge\source\repos\Lab3part1\Lab3part1\obj\Debug\net8.0\ref\Lab3part1.dll

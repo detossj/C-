@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="100" Spacing="50" Background="White">
+            <Label 
+                Text="Ingreso usuario"
+                Style="{StaticResource Headline}"
+                SemanticProperties.HeadingLevel="Level1"
+                TextColor="Black"/>
+            <Entry x:Name="txtRut"
+                   Placeholder="Ingresar Rut"
+                   PlaceholderColor="Black"/>
+            <Entry x:Name="txtNombre"
+                   Placeholder="Ingresa Nombre"
+                   PlaceholderColor="Black"/>
+            <Entry x:Name="txtApellidoPaterno"
+                   Placeholder="Ingresar Apellido Paterno"
+                   PlaceholderColor="Black"/>
+            <Entry x:Name="txtApellidoMaterno"
+                   Placeholder="Ingresar Apellido Materno"
+                   PlaceholderColor="Black"/>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+                <Entry x:Name="txtDia"
+                       Placeholder="dia"
+                       PlaceholderColor="Black"/>
+                <Entry x:Name="txtMes"
+                       Placeholder="mes"
+                       PlaceholderColor="Black"/>
+                <Entry x:Name="txtAnhio"
+                       Placeholder="año"
+                       PlaceholderColor="Black"/>
+            </StackLayout>
+
+            <Button x:Name="btnIngresar"
+                    SemanticProperties.Hint="Ingresa un usuario"
+                    Text="Ingresar"
+                    BackgroundColor="Violet"
+                    TextColor="Black"
+                    Clicked="OnBtnIngresarClicked"/>
+
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

@@ -1,0 +1,14 @@
+C:\Users\jorge\source\repos\Repaso2Test1\Repaso2Test1\bin\Debug\net8.0\Repaso2Test1.exe
+C:\Users\jorge\source\repos\Repaso2Test1\Repaso2Test1\bin\Debug\net8.0\Repaso2Test1.deps.json
+C:\Users\jorge\source\repos\Repaso2Test1\Repaso2Test1\bin\Debug\net8.0\Repaso2Test1.runtimeconfig.json
+C:\Users\jorge\source\repos\Repaso2Test1\Repaso2Test1\bin\Debug\net8.0\Repaso2Test1.dll
+C:\Users\jorge\source\repos\Repaso2Test1\Repaso2Test1\bin\Debug\net8.0\Repaso2Test1.pdb
+C:\Users\jorge\source\repos\Repaso2Test1\Repaso2Test1\obj\Debug\net8.0\Repaso2Test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\Repaso2Test1\Repaso2Test1\obj\Debug\net8.0\Repaso2Test1.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\Repaso2Test1\Repaso2Test1\obj\Debug\net8.0\Repaso2Test1.AssemblyInfo.cs
+C:\Users\jorge\source\repos\Repaso2Test1\Repaso2Test1\obj\Debug\net8.0\Repaso2Test1.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\Repaso2Test1\Repaso2Test1\obj\Debug\net8.0\Repaso2Test1.dll
+C:\Users\jorge\source\repos\Repaso2Test1\Repaso2Test1\obj\Debug\net8.0\refint\Repaso2Test1.dll
+C:\Users\jorge\source\repos\Repaso2Test1\Repaso2Test1\obj\Debug\net8.0\Repaso2Test1.pdb
+C:\Users\jorge\source\repos\Repaso2Test1\Repaso2Test1\obj\Debug\net8.0\Repaso2Test1.genruntimeconfig.cache
+C:\Users\jorge\source\repos\Repaso2Test1\Repaso2Test1\obj\Debug\net8.0\ref\Repaso2Test1.dll

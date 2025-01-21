@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Window x:Class="MiAplicacion.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Resources/Images/fondo.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+
+        <!-- Otros controles van aquí -->
+        <TextBlock Text="¡Hola, mundo!" HorizontalAlignment="Center" VerticalAlignment="Center" 
+                   Foreground="White" FontSize="32"/>
+    </Grid>
+</Window>
+
